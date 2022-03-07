@@ -9,4 +9,3 @@ This repository contains assignments and project, submitted to Game Development 
 |  **63153**     |  **Abdul Moiz** |
 |  63130         |  Tahoor Ali     |
 |  63239         |  Muhammad Yousuf|
-|  63303         |  Mirza Asad     |
