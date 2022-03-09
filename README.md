@@ -15,3 +15,9 @@ This repository contains assignments and project, submitted to Game Development 
 ### Muhammad Yousuf
 
 I want to re-build the Pac-Man game with better graphics, the game would be in 3d. Inky, Blinky, Pinky and Clyde all got new avatars and they learn from Mr. Pac-Man's moves and act accordingly to beat him. Players would be able to create their own avatars for the character of Mr. Pac-Man.
+
+### Tahoor Ali
+
+**Game Title: Hunter Hero**
+
+It is an action game. We have multiple sprites in this game, Enemies and the Hunter Hero. The hunter hero kill the enemies by gun and knife. Enemies roam the city to boom blast and to kill people. Hunter Hero have to face some difficult challenges from the enemies and then you kill the enemies and save the people.
