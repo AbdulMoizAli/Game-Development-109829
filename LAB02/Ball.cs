@@ -22,6 +22,7 @@ public class Ball : MonoBehaviour
             ball.velocity = ball.velocity * ballSpeedIncrement;
             increasePaddleSpeed();
         }
+        // Implemented by Tahoor
         else if (collision.collider.CompareTag("LeftWall"))
         {
             updatePlayerScore("RightPlayerScore", ++GameManager.GetGameManager().rightPlayerScore);
@@ -40,7 +41,7 @@ public class Ball : MonoBehaviour
             paddle.Speed += paddleSpeedIncrement;
         }
     }
-
+// Implemented by Tahoor
     void updatePlayerScore(string tag, int score)
     {
         GameObject.FindGameObjectWithTag(tag).GetComponent<Text>().text = score.ToString();
