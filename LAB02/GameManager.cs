@@ -1,3 +1,5 @@
+// Thread-Safe GameManager Singleton
+// Implemented by Abdul Moiz
 public sealed class GameManager
 {
     public int leftPlayerScore;
