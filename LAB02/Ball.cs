@@ -22,7 +22,6 @@ public class Ball : MonoBehaviour
             ball.velocity = ball.velocity * ballSpeedIncrement;
             increasePaddleSpeed();
         }
-        
         // Implemented by Tahoor
         else if (collision.collider.CompareTag("LeftWall"))
         {
