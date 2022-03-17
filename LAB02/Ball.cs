@@ -32,7 +32,8 @@ public class Ball : MonoBehaviour
             updatePlayerScore("LeftPlayerScore", ++GameManager.GetGameManager().leftPlayerScore);
         }
     }
-
+    
+    // Implemented by Muhammad Yousuf
     void increasePaddleSpeed()
     {
         foreach (var obj in GameObject.FindGameObjectsWithTag("Paddle"))
