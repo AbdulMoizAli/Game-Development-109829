@@ -22,6 +22,7 @@ public class Ball : MonoBehaviour
         }
     }
 
+    // Implemented by Muhammad Yousuf
     void increasePaddleSpeed()
     {
         foreach (var obj in GameObject.FindGameObjectsWithTag("Paddle"))
