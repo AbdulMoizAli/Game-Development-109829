@@ -26,3 +26,17 @@ It is an action video game. In this game dragons are attacking us and we have to
 ### 3. Ball Runner Game
 
 It is a 3D game. The main objective of the game is to role the ball through the path. This game follows the concept of zigzag. The player has to follow the path by rolling the ball without falling down.
+
+## Tahoor Ali
+
+### 1. An Evil Granny:
+
+This game have a granny who died seventeen years ago and the game played a horror music. The granny keeps you locked in his house. To survive you have to try to get out of his house, but be careful and be quite because granny goes backwards. You have to find the cars key and run.
+
+### 2. Stack Game:
+
+The main objective of this game is to build a tower by adding layers. The player has to build a layers tower without falling any pieces.The player has to increase the height of the Stack game as much as possible.
+
+### 3.Smash The Can:
+
+In this game, We have few sprites , some cans and balls. We have to hit the can and the can has to be dropped. We will have different challanges at each level and limited balls.
