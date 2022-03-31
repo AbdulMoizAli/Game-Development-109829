@@ -13,3 +13,16 @@ This means the player should focus only on Enemies red object. You need to monit
 The game time and bullets counter are displayed in the upper right corner of the screen whereas Life of the player and enemies life counter on the upper left corner. 
 He/she must be careful while aiming the enemy targets. There are some Peaceful objects too and if the peaceful objects are destroyed it leads to decrement in player lives.
 
+## Abdul Moiz
+
+### 1. An Occupied Fort
+
+In this game, we have a fort and the fort is captured. We have to take control of this fort and it has to be conquered. We will kill the enemies with weapons to save the people and conquer the fort.
+
+### 2. Target Attack
+
+It is an action video game. In this game dragons are attacking us and we have to save the people from dragons. We select different kinds of weapons to kill the dragons. 
+
+### 3. Ball Runner Game
+
+It is a 3D game. The main objective of the game is to role the ball through the path. This game follows the concept of zigzag. The player has to follow the path by rolling the ball without falling down.
