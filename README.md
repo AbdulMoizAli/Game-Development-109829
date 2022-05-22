@@ -21,3 +21,9 @@ I want to re-build the Pac-Man game with better graphics, the game would be in 3
 **Game Title: Hunter Hero**
 
 It is an action game. We have multiple sprites in this game, Enemies and the Hunter Hero. The hunter hero kill the enemies by gun and knife. Enemies roam the city to boom blast and to kill people. Hunter Hero have to face some difficult challenges from the enemies and then you kill the enemies and save the people.
+
+### Abdul Moiz
+
+**Alien Shooter**
+
+The mission of the game is to destroy aliens, aliens would attack the spaceship and the spaceship would have to eliminate the aliens by shooting at them.
